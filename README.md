@@ -8,7 +8,7 @@ Plus a c# winform UI
 
 ---
 
-my project in 4th-grade in college (2016), provided as-is, no modification after that
+my project in college (2016), provided as-is, no modification after that
 
 ---
 
